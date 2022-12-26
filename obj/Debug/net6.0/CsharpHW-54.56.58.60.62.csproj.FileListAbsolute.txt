@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\bin\Debug\net6.0\CsharpHW-54.56.58.60.62.exe
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\bin\Debug\net6.0\CsharpHW-54.56.58.60.62.deps.json
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\bin\Debug\net6.0\CsharpHW-54.56.58.60.62.runtimeconfig.json
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\bin\Debug\net6.0\CsharpHW-54.56.58.60.62.dll
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\bin\Debug\net6.0\CsharpHW-54.56.58.60.62.pdb
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.AssemblyInfo.cs
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.dll
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\refint\CsharpHW-54.56.58.60.62.dll
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.pdb
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\CsharpHW-54.56.58.60.62.genruntimeconfig.cache
+C:\Users\admin\Desktop\54,56,58,60,62\CsharpHW-54.56.58.60.62\obj\Debug\net6.0\ref\CsharpHW-54.56.58.60.62.dll
